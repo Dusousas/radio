@@ -2,7 +2,7 @@
 
 @theme inline {
   --color-RedP: #EC1D24;
-  --font-Manrope:  "Manrope", sans-serif;
+  --font-Manrope: "Manrope", sans-serif;
   --font-Inter: "Inter", sans-serif;
 }
 
@@ -10,13 +10,13 @@ body {
   font-family: "Manrope", sans-serif;
 }
 
-.maxW{
+.maxW {
   max-width: 1440px;
   margin: 0 auto;
   padding: 0 2%;
 }
 
-.bgMain{
+.bgMain {
   background-image: url('/main-bg.jpg');
   background-position: center;
   background-repeat: no-repeat;
@@ -24,14 +24,21 @@ body {
   height: calc(100vh - 80px);
 }
 
-.bgService{
+.bgService {
   background-image: url('/service2.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-h1{
+.bgDepo {
+  background-image: url('/about-1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
   font-family: "Inter", sans-serif;
 
 }

@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Stream() {
     return (
-        <section className='py-20'>
+        <section id='aovivo' className='py-20'>
             <div className='maxW flex flex-col lg:flex-row items-center justify-center gap-10'>
                 {/* Texto */}
                 <article className='lg:w-1/2'>

@@ -4,7 +4,7 @@ import Newsletter from './Newsletter';
 export default function Programming() {
     return (
         <>
-            <section className='py-40 bg-black relative '>
+            <section id='programacao' className='py-40 bg-black relative '>
                 <img className='absolute bottom-0 w-[80%]' src="/RED-BG.png" alt="" />
                 <div className='maxW '>
                     <article className='flex flex-col gap-y-20 gap-10 lg:flex-row'>

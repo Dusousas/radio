@@ -4,7 +4,7 @@ import CardsAbout from './subc/CardsAbout';
 export default function About() {
     return (
         <>
-            <section className='py-20'>
+            <section id='about' className='py-20'>
                 <div className='maxW flex flex-col-reverse lg:flex-row items-center gap-10 lg:gap-20'>
                     <article className="relative w-full lg:w-[600px] lg:h-[400px]">
                         {/* IMAGEM BASE */}

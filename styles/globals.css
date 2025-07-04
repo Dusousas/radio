@@ -6,8 +6,9 @@
   --font-Inter: "Inter", sans-serif;
 }
 
-body {
+body, html {
   font-family: "Manrope", sans-serif;
+  scroll-behavior: smooth;
 }
 
 .maxW {

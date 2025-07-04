@@ -18,8 +18,8 @@ export default function Navbar() {
   const navItems = [
     { id: "home", label: "Início" },
     { id: "about", label: "Sobre" },
-    { id: "services", label: "Serviços" },
-    { id: "contact", label: "Contato" },
+    { id: "programacao", label: "programação" },
+    { id: "aovivo", label: "ao vivo" },
   ];
 
   return (
